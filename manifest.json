@@ -1,6 +1,6 @@
 {
   "name": "Codetantra - Enable Copy and Paste",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Saurav Hathi",
   "homepage_url": "https://github.com/sauravhathi/codetantra-enable-copy-paste",
   "description": "This extension enables copy and paste on codetantra.com",
@@ -24,7 +24,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://*.codetantra.com/*"
+        "https://lpu.codetantra.com/*"
       ],
       "js": [
         "content.js"
