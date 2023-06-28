@@ -9,10 +9,8 @@ This extension enables copy and paste on codetantra.com
 4. Click on Load unpacked and select the folder where you extracted the repository.
 
 ## How to use
-It will automatically enable copy and paste on codetantra.com
 
-Select the text and click on chrome `Customize and control Google Chrome` icon and click on `Copy` and then paste it anywhere you want.
-![image](https://user-images.githubusercontent.com/61316762/222245361-50d469a6-beba-44ff-adb1-f9a3ae59efde.png)
+![image](https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/02044f72-da9d-410c-b18f-e613cd28b93c)
 
 ## Built With
 
