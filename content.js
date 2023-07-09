@@ -32,20 +32,23 @@ if (window.location.href.includes("https://lpu.codetantra.com/secure/topic-detai
                 return button;
             };
 
+            const copy = (text, successMessage) => {
+                navigator.clipboard.writeText(text);
+                console.log(successMessage);
+            };
+
             const copyCodeButton = createButton("Copy 🧑‍💻", "Click to copy your code", () => {
                 try {
-                    const labelElement = document.querySelector('label.btn.btn-light.btn-xs.toggle-off');
-                    if (labelElement) {
+                    const labelElement = document.querySelector('div.toggle.btn.btn-xs');
+                    if (labelElement.classList.contains('btn-primary')) {
                         labelElement.click();
-                        setTimeout(() => {
-                            const code = document.querySelector('div.ace_layer.ace_text-layer');
-                            const codeText = code.innerText;
-                            navigator.clipboard.writeText(codeText);
-                            console.log("Code copied successfully!");
-                        }, 1000);
-                    } else {
-                        throw new Error('Failed to find labelElement');
                     }
+
+                    setTimeout(() => {
+                        const code = document.querySelector('div.ace_layer.ace_text-layer');
+                        const codeText = code.innerText;
+                        copy(codeText, "Code copied successfully!");
+                    }, 1);
                 } catch (error) {
                     console.error(error);
                     alert("Error copying code!");
@@ -55,9 +58,7 @@ if (window.location.href.includes("https://lpu.codetantra.com/secure/topic-detai
             const copyQuestionButton = createButton("Copy 📝", "Click to copy question", () => {
                 try {
                     const question = document.getElementById('questionInfoDiv');
-                    const questionText = question.innerText;
-                    navigator.clipboard.writeText(questionText);
-                    console.log("Question copied successfully!");
+                    copy(question.innerText, "Question copied successfully!");
                 } catch (error) {
                     console.error(error);
                     alert("Error copying question!");
