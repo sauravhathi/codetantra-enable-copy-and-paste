@@ -10,6 +10,8 @@ This extension enables copy and paste on codetantra.com
 3. Enable developer mode.
 4. Click on Load unpacked and select the folder where you extracted the repository.
 
+![image](https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/fb0a6890-d567-4d24-a13f-f1418524fc74)
+
 ## How to use
 
 ![image](https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/02044f72-da9d-410c-b18f-e613cd28b93c)
