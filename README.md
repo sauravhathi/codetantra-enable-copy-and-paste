@@ -1,24 +1,52 @@
-# Codetantra - Enable Copy and Paste
+# Codetantra - Copy and Paste Extension
 
-This extension enables copy and paste on codetantra.com
+![Codetantra](https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/fb0a6890-d567-4d24-a13f-f1418524fc74)
 
-<a href="https://www.buymeacoffee.com/sauravhathi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+Welcome to the Codetantra Copy and Paste Extension! This extension enhances your experience on codetantra.com by enabling copy and paste functionality for code, test cases, and questions.
 
 ## Installation
-1. Clone/download as zip and extract the repository.
-2. Open chrome://extensions/ in your browser.
-3. Enable developer mode.
-4. Click on Load unpacked and select the folder where you extracted the repository.
 
-![image](https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/fb0a6890-d567-4d24-a13f-f1418524fc74)
+Follow these simple steps to install the extension:
 
-## How to use
+1. **Clone or Download:** Clone this repository or download it as a zip file and extract it.
 
-![image](https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/02044f72-da9d-410c-b18f-e613cd28b93c)
+2. **Open Chrome Extensions:** In your Google Chrome browser, navigate to `chrome://extensions/`.
+
+3. **Enable Developer Mode:** Enable the developer mode in the top right corner of the extensions page.
+
+4. **Load Unpacked Extension:** Click on "Load unpacked" and select the folder where you extracted the repository.
+
+## How to Use
+
+![How to Use](https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/02044f72-da9d-410c-b18f-e613cd28b93c)
+
+Using the Codetantra Copy and Paste Extension is a breeze! Once installed, simply follow these steps:
+
+1. **Access a Topic:** Navigate to the desired topic on codetantra.com. Ensure you are on a page with code, test cases, or a question.
+
+2. **Copy Test Cases:** To copy the test cases, click on the "Copy 🧪" button. The test cases will be copied to your clipboard, and a success message will appear.
+
+3. **Copy Code:** To copy your code, click on the "Copy 🧑‍💻" button. The code will be copied, and you'll see a success message.
+
+4. **Copy Question:** To copy the question, click on the "Copy 📝" button. The question will be copied to your clipboard, and you'll receive a success message.
 
 ## Built With
 
-* [Chrome Extension](https://developer.chrome.com/extensions) - The web framework used
+This extension was developed using the [Chrome Extension](https://developer.chrome.com/extensions) web framework.
+
+## Support the Developer ☕
+
+If you find this extension helpful and wish to support the developer, you can buy them a coffee! [Buy Me A Coffee](https://www.buymeacoffee.com/sauravhathi)
+
+<a href="https://www.buymeacoffee.com/sauravhathi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+
+This project is licensed under the MIT License. See the LICENSE.md file for details.
+
+---
+
+👨‍💻 **Author: Saurav Hathi**  
+🌟 **GitHub: [https://github.com/sauravhathi](https://github.com/sauravhathi)**
+
+That's it! Enjoy seamless copying and pasting on Codetantra! If you have any feedback or suggestions, feel free to reach out. Happy coding! 😊
