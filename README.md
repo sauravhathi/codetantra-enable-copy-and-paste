@@ -18,7 +18,7 @@ Follow these simple steps to install the extension:
 
 ## How to Use
 
-![How to Use](https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/02044f72-da9d-410c-b18f-e613cd28b93c)
+![image](https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/e2549b06-d4ea-4920-9b5f-9e2adf731031)
 
 Using the Codetantra Copy and Paste Extension is a breeze! Once installed, simply follow these steps:
 
