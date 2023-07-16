@@ -89,7 +89,8 @@ if (window.location.href.includes("https://lpu.codetantra.com/secure/topic-detai
                         labelElement.click();
                     }
 
-                    const code = document.querySelector('div.ace_layer.ace_text-layer');
+                    const code = document.querySelector('div.tab-content div.tab-pane.active div.ace_layer.ace_text-layer');
+                    
                     if (code === null) {
                         throw new Error("Code not found!");
                     }
