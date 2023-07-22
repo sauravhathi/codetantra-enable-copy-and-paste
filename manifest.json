@@ -24,7 +24,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://lpu.codetantra.com/*"
+        "https://*.codetantra.com/*"
       ],
       "js": [
         "content.js"
