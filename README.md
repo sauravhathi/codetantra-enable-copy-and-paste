@@ -1,8 +1,8 @@
-# Codetantra - Copy and Paste Extension
+# <p align="center">Codetantra - Copy and Paste Extension </p>
 
-![Codetantra](https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/fb0a6890-d567-4d24-a13f-f1418524fc74)
+<p align="center"><img width="500" src="https://github.com/sauravhathi/codetantra-enable-copy-and-paste/assets/61316762/fb0a6890-d567-4d24-a13f-f1418524fc74" alt="Codetantra"></p>
 
-Welcome to the Codetantra Copy and Paste Extension! This extension enhances your experience on codetantra.com by enabling copy and paste functionality for code, test cases, and questions.
+<p align="center">Welcome to the Codetantra Copy and Paste Extension! This extension enhances your experience on codetantra.com by enabling copy and paste functionality for code, test cases, and questions.</p>
 
 ## Installation
 
