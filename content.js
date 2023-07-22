@@ -1,6 +1,7 @@
 console.log('👨‍💻 Author: Saurav Hathi \n🌟 GitHub: https://github.com/sauravhathi');
 
-if (window.location.href.includes("https://lpu.codetantra.com/secure/topic-details1")) {
+
+if (window.location.href.includes("codetantra.com/secure/topic-details1")) {
     const myModal = document.getElementById("myModal");
 
     const waitForModalToShow = () => {
@@ -90,7 +91,7 @@ if (window.location.href.includes("https://lpu.codetantra.com/secure/topic-detai
                     }
 
                     const code = document.querySelector('div.tab-content div.tab-pane.active div.ace_layer.ace_text-layer');
-                    
+
                     if (code === null) {
                         throw new Error("Code not found!");
                     }
